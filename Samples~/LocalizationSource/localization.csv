@@ -1,0 +1,7 @@
+table,key,source,en,vi,description,path,componentGuid,status,smart,notes
+UI,home.title_select_level,SELECT LEVEL,SELECT LEVEL,CHỌN MÀN,Home screen level selection title,,,approved,false,
+UI,home.play_button,PLAY,PLAY,CHƠI,Home screen play button,,,approved,false,
+UI,home.current_badge,CURRENT,CURRENT,HIỆN TẠI,Current level badge,,,approved,false,
+UI,home.selected_level_format,LEVEL {0},LEVEL {0},MÀN {0},Selected level label format,,,approved,true,
+UI,error.load_failed,LOAD FAILED,LOAD FAILED,TẢI THẤT BẠI,Level load failure message,,,approved,false,
+UI,error.screen_failed,SCREEN FAILED,SCREEN FAILED,MÀN HÌNH LỖI,Screen load failure message,,,approved,false,

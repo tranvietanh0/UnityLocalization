@@ -1,0 +1,11 @@
+{
+  "name": "com.the1studio.unity-localization-tool",
+  "version": "0.1.0",
+  "displayName": "The1Studio Unity Localization Tool",
+  "description": "CSV localization importer, scanner, validator, and TMP runtime helper for Unity Localization.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.localization": "1.5.4",
+    "com.unity.textmeshpro": "3.0.9"
+  }
+}

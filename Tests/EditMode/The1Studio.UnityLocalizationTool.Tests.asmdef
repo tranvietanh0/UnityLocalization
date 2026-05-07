@@ -1,0 +1,22 @@
+{
+  "name": "The1Studio.UnityLocalizationTool.Tests",
+  "rootNamespace": "The1Studio.UnityLocalizationTool.Tests",
+  "references": [
+    "The1Studio.UnityLocalizationTool.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

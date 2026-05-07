@@ -1,0 +1,17 @@
+{
+  "name": "The1Studio.UnityLocalizationTool.Runtime",
+  "rootNamespace": "The1Studio.UnityLocalizationTool.Runtime",
+  "references": [
+    "Unity.Localization",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

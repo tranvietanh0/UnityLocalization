@@ -1,0 +1,20 @@
+{
+  "name": "The1Studio.UnityLocalizationTool.Editor",
+  "rootNamespace": "The1Studio.UnityLocalizationTool.Editor",
+  "references": [
+    "Unity.Localization",
+    "Unity.Localization.Editor",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
